@@ -1,0 +1,59 @@
+﻿  What is JPEG.cpp
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(122,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(124,62): warning C4244: “参数”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(125,62): warning C4244: “参数”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(126,62): warning C4244: “参数”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(136,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(138,62): warning C4244: “参数”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(139,62): warning C4244: “参数”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(140,62): warning C4244: “参数”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\ZJU\C++\What is JPEG\What is JPEG\What is JPEG\What is JPEG.cpp(403,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  What is JPEG.vcxproj -> D:\ZJU\C++\What is JPEG\What is JPEG\x64\Debug\What is JPEG.exe
